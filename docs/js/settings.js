@@ -216,8 +216,8 @@ var settings = [
 
     },
     {
-        file: "018_sight_cip_5.wav",
-        song_text: "DEACTIVATE SECURITY CAMERA",
+        file: "018_real_sight_large_office_2.wav",
+        song_text: "THE CAMERA",
         type_speed: 30,
         type: "real",
         group: 3,
