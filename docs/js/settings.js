@@ -233,7 +233,7 @@ var settings = [
     {
         file: "015_4k8c0307_original_HT.wav",
         song_text: "THE  WALL A PROPOSAL WOULD COST FIVE POINT FOUR TWO BILLION DOLLARS OVER FIVE YEARS",
-        type_speed: 50,
+        type_speed: 45,
         type: "original",
         group: 3,
 
